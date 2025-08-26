@@ -7,9 +7,7 @@ My name is Artur, I can:
 - 🌐 Make websites (Next.js, React, TypeScript)
 
 ## 📌 My projects
-- [🎮 Nonograms (game)](link)
-- [🛒 eCommerce platform](link)
 
 ## 📫 How to contact me
-- Telegram: [@tviynik](link)
-- Email: example@gmail.com
+- Telegram: [@S7pace]
+- Email: spacegubriy@gmail.com
