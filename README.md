@@ -7,7 +7,10 @@ My name is Artur, I can:
 - 🌐 Make websites (Next.js, React, TypeScript)
 
 ## 📌 My projects
+-
+-
+-
 
 ## 📫 How to contact me
-- Telegram: [@S7pace]
+- Telegram: [@S7pace] (https://t.me/S7pace)
 - Email: spacegubriy@gmail.com
