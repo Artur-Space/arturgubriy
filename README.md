@@ -1,2 +1,15 @@
 # arturgubriy
-# Привіт! 👋  Мене звати Артур, я вмію: - 🎨 Малювати в Procreate - ✂️ Робити легкий відеомонтаж - 🌐 Робити сайти (Next.js, React, TypeScript)  ## 📌 Мої проекти - [🎮 Нонограми (гра)](посилання) - [🛒 eCommerce платформа](посилання)  ## 📫 Як зі мною зв’язатися - Telegram: [@твійнік](посилання) - Email: example@gmail.com
+# Hello! 👋
+
+My name is Artur, I can:
+- 🎨 Draw in Procreate
+- ✂️ Make light video editing
+- 🌐 Make websites (Next.js, React, TypeScript)
+
+## 📌 My projects
+- [🎮 Nonograms (game)](link)
+- [🛒 eCommerce platform](link)
+
+## 📫 How to contact me
+- Telegram: [@tviynik](link)
+- Email: example@gmail.com
